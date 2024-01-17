@@ -38,14 +38,8 @@ Opción de ordenar alfabéticamente y de filtrar por etiquetas.
 </p>
 <br>
 
-<br>
-<p align="center">
-<img src="https://github.com/CBocka/AgendaContactosFlutter/assets/156449965/9b80433d-41fe-48dd-a79d-7c7621b93895" height="450" width="220" >
-</p>
-<br>
-
 El icono del contacto se decide en función de las etiquetas siguiendo un orden de preferencia establecido.
-
+<br>
 ### - Detalles de contacto
 
 <br>
