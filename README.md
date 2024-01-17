@@ -64,7 +64,9 @@ Los cuadros de texto incluyen control de datos de entrada y respuesta a errores.
 **TODO: **
 <br>
 - Obtención de la lista de contactos desde una base de datos o un fichero json, por ejemplo.
+<br>
 - Solución de pequeños errores y refactorización.
+<br>
 - Añadir persistencia de datos.
 
 
