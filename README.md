@@ -4,7 +4,7 @@ Agenda de contactos realizada con Flutter y el lenguaje de programación Dart.
 
 La agenda se inicializa con un listado de contactos de prueba. Se permite añadir contactos nuevos, eliminar existentes, ver detalles de contacto, editar información del contacto, filtrar por sistema de etiquetas, ordenar alfabéticamente, etc.
 
-La aplicación no tiene utilidad real, pero si didáctica.
+La aplicación no tiene utilidad real, fue realizada con intención didáctica.
 
 ### - Listado de contactos
 
@@ -62,6 +62,7 @@ Los cuadros de texto incluyen control de datos de entrada y respuesta a errores.
 <br>
 <br>
 **TODO: **
+<br>
 - Obtención de la lista de contactos desde una base de datos o un fichero json, por ejemplo.
 - Solución de pequeños errores y refactorización.
 - Añadir persistencia de datos.
